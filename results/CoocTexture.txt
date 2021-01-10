@@ -1,0 +1,38 @@
+Testing CoocTexture, d=16, N=68040 || k=15, p=10
+V0 Duration = 105.940944 sec
+V1 Duration = 45.570902 sec
+V2 Duration = 3.309509 sec
+
+Testing CoocTexture, d=16, N=68040 || k=55, p=10
+V0 Duration = 445.712411 sec
+V1 Duration = 422.324913 sec
+V2 Duration = 30.921003 sec
+
+Testing CoocTexture, d=16, N=68040 || k=95, p=10
+V0 Duration = 1035.215747 sec
+V1 Duration = 1136.443389 sec
+V2 Duration = 88.322043 sec
+
+Testing CoocTexture, d=16, N=68040 || k=15, p=30
+V1 Duration = 34.432608 sec
+V2 Duration = 1.402213 sec
+
+Testing CoocTexture, d=16, N=68040 || k=55, p=30
+V1 Duration = 339.077869 sec
+V2 Duration = 12.337624 sec
+
+Testing CoocTexture, d=16, N=68040 || k=95, p=30
+V1 Duration = 864.340330 sec
+V2 Duration = 35.578593 sec
+
+Testing CoocTexture, d=16, N=68040 || k=15, p=50
+V1 Duration = 32.950404 sec
+V2 Duration = 1.006374 sec
+
+Testing CoocTexture, d=16, N=68040 || k=55, p=50
+V1 Duration = 317.833478 sec
+V2 Duration = 8.818642 sec
+
+Testing CoocTexture, d=16, N=68040 || k=95, p=50
+V1 Duration = 788.478901 sec
+V2 Duration = 24.565538 sec

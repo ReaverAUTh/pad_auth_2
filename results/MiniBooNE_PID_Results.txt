@@ -1,0 +1,38 @@
+Testing MiniBoone, d=50, N=130064 || k=95, p=40
+V1 Duration = 1815.168151 sec
+V2 Duration = 65.584703 sec
+
+Testing MiniBoone, d=50, N=130064 || k=95, p=70
+V1 Duration = 1467.801028 sec
+V2 Duration = 41.374268 sec
+
+Testing MiniBoone, d=50, N=130064 || k=95, p=100
+V0 Duration = 2047.259951 sec
+V1 Duration = 1329.946197 sec
+V2 Duration = 30.878820 sec
+
+Testing MiniBoone, d=50, N=130064 || k=55, p=40
+V1 Duration = 661.761517 sec
+V2 Duration = 24.255775 sec
+
+Testing MiniBoone, d=50, N=130064 || k=55, p=70
+V1 Duration = 564.285128 sec
+V2 Duration = 15.223157 sec
+
+Testing MiniBoone, d=50, N=130064 || k=55, p=100
+V0 Duration = 923.505600 sec
+V1 Duration = 517.030357 sec
+V2 Duration = 11.339136 sec
+
+Testing MiniBoone, d=50, N=130064 || k=15, p=40
+V1 Duration = 65.017206 sec
+V2 Duration = 5.107818 sec
+
+Testing MiniBoone, d=50, N=130064 || k=15, p=70
+V1 Duration = 54.612274 sec
+V2 Duration = 3.196346 sec
+
+Testing MiniBoone, d=50, N=130064 || k=15, p=100
+V0 Duration = 377.369891 sec
+V1 Duration = 50.488045 sec
+V2 Duration = 2.577445 sec

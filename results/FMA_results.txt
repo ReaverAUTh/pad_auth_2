@@ -1,0 +1,38 @@
+Testing FMA, d=518, N=106574 || k=15, p=30
+V0 Duration = 300.23456 sec
+V1 Duration = 56.318737 sec
+V2 Duration = 23.217970 sec
+
+Testing FMA, d=518, N=106574 || k=15, p=70
+V1 Duration = 36.237934 sec
+V2 Duration = 17.874937 sec
+
+Testing FMA, d=518, N=106574 || k=15, p=100
+V1 Duration = 30.332943 sec
+V2 Duration = 13.276377 sec
+
+Testing FMA, d=518, N=106574 || k=55, p=30
+V1 Duration = 563.252271 sec
+V2 Duration = 60.294502 sec
+
+Testing FMA, d=518, N=106574 || k=55, p=70
+V1 Duration = 483.498919 sec
+V2 Duration = 32.255460 sec
+
+Testing FMA, d=518, N=106574 || k=55, p=100
+V0 Duration = 723.883456 sec
+V1 Duration = 432.962220 sec
+V2 Duration = 24.474688 sec
+
+Testing FMA, d=518, N=106574 || k=95, p=30
+V0 Duration = 1443.223456 sec
+V1 Duration = 1044.343406 sec
+V2 Duration = 69.326727 sec
+
+Testing FMA, d=518, N=106574 || k=95, p=70
+V1 Duration = 914.806135 sec
+V2 Duration = 44.347295 sec
+
+Testing FMA, d=518, N=106574 || k=95, p=100
+V1 Duration = 900.116108 sec
+V2 Duration = 33.167479 sec
