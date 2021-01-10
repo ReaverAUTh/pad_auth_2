@@ -1,0 +1,38 @@
+Testing BBC, d=17, N=17720 || k=15, p=2
+V0 Duration = 13.315024 sec
+V1 Duration = 20.240200 sec
+V2 Duration = 2.054030 sec
+
+Testing BBC, d=17, N=17720 || k=55, p=2
+V0 Duration = 87.616967 sec
+V1 Duration = 200.731313 sec
+V2 Duration = 24.333692 sec
+
+Testing BBC, d=17, N=17720 || k=95, p=2
+V0 Duration = 223.415320 sec
+V1 Duration = 540.025441 sec
+V2 Duration = 72.042789 sec
+
+Testing BBC, d=17, N=17720 || k=15, p=3
+V1 Duration = 11.451291 sec
+V2 Duration = 1.535446 sec
+
+Testing BBC, d=17, N=17720 || k=55, p=3
+V1 Duration = 103.702683 sec
+V2 Duration = 17.918424 sec
+
+Testing BBC, d=17, N=17720 || k=95, p=3
+V1 Duration = 269.986626 sec
+V2 Duration = 52.224440 sec
+
+Testing BBC, d=17, N=17720 || k=15, p=4
+V1 Duration = 10.873366 sec
+V2 Duration = 1.218410 sec
+
+Testing BBC, d=17, N=17720 || k=55, p=4
+V1 Duration = 111.541459 sec
+V2 Duration = 14.885636 sec
+
+Testing BBC, d=17, N=17720 || k=95, p=4
+V1 Duration = 300.945753 sec
+V2 Duration = 42.232998 sec
