@@ -10,6 +10,8 @@ Various implementations of an all-knn algorithm, using MPI and openMP.
 
 **/results/** contains the results produced by using AUTh's High Performance Computing (HPC) infrastructure. 
 
+**/hpc_auth/** contains files used to run the implementations on the HPC.
+
 ## **1. Before using**
 File *supplementary.c* contains a function called *read_from_file*. There we can set the name of the file we want to use as our data and declare its N=number_of_points and d=dimensions values.
 
