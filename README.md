@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="257" src="https://i.imgur.com/IwFaU2n.png">
+  <img width="600" height="257" src="https://i.imgur.com/oqrOAX8.png">
 </p>
 
 # Parallel-Exercise2
@@ -30,6 +30,8 @@ Everything can be run on AUTh's HPC (for those with an account), by using the sa
 ```
 sbatch <shell_file_name>.sh
 ```
+
+
 
 
 Repo for the second exercise of course 050 - Parallel and Distributed Systems, Aristotle University of Thessaloniki, Dpt. of Electrical & Computer Engineering.
