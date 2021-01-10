@@ -7,6 +7,7 @@
 Various implementations of an all-knn algorithm, using MPI and openMP.
 
 **/data/** contains the datasets used to produce the results.
+
 **/results/** contains the results produced by using AUTh's High Performance Computing (HPC) infrastructure. 
 
 ## **1. Before using**
