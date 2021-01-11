@@ -16,7 +16,9 @@ Various implementations of an all-knn algorithm, using MPI and openMP.
 File *supplementary.c* contains a function called *read_from_file*. There we can set the name of the file we want to use as our data and declare its N=number_of_points and d=dimensions values.
 
 **V0:** Serial Implementation
+
 **V1:** Asynchronous Implementation (using MPI)
+
 **V2:** Vantage Point Tree Implementation (MPI)
 
 ## **2. Local execution**
