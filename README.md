@@ -39,6 +39,6 @@ Everything can be run on AUTh's HPC (for those with an account), by using the sa
 sbatch <shell_file_name>.sh
 ```
 \
-\
+#
 Repo for the second exercise of course 050 - Parallel and Distributed Systems, Aristotle University of Thessaloniki, Dpt. of Electrical & Computer Engineering.
 
