@@ -39,9 +39,9 @@ Everything can be run on AUTh's HPC (for those with an account), by using the sa
 sbatch <shell_file_name>.sh
 ```
 #
-\\
 
 *Refference:* Yianilos, Peter. (1993). Data Structures and Algorithms for Nearest Neighbor Search in General Metric Spaces. Fourth Annual ACM-SIAM Symposium on Discrete Algorithms. 93. 10.1145/313559.313789.
-\
+
+
 Repo for the second exercise of course 050 - Parallel and Distributed Systems, Aristotle University of Thessaloniki, Dpt. of Electrical & Computer Engineering.
 
